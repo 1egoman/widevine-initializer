@@ -1,0 +1,20 @@
+{
+  "name": "widevine-initializer",
+  "version": "1.0.0",
+  "description": "Make sure that widevine is initialized before trying to access a drm'd stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "widevine",
+    "drm",
+    "eme",
+    "encryption",
+    "enecrypted",
+    "media",
+    "extensions"
+  ],
+  "author": "Ryan Gaus",
+  "license": "ISC"
+}
